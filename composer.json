@@ -1,0 +1,16 @@
+{
+    "name": "skreh/test",
+    "description": "This is only test project.",
+    "type": "project",
+    "require": {
+        "symfony/symfony": "^4.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "skreh",
+            "email": "skreh@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

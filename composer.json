@@ -3,7 +3,13 @@
   "description": "This is only test project.",
   "type": "project",
   "require": {
-    "php": "^7.2.2"
+    "php": "^7.2.2",
+    "symfony/symfony": "4.4",
+    "doctrine/orm": "^2.6",
+    "doctrine/doctrine-bundle": "^2.1",
+    "doctrine/doctrine-migrations-bundle": "^3.0",
+    "sensio/framework-extra-bundle": "^5.5",
+    "twig/extra-bundle": "3.0"
   },
   "license": "MIT",
   "authors": [
